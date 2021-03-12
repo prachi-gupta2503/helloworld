@@ -1,0 +1,24 @@
+ 
+  thead{
+     background-color:#ffd662ff;
+     color:#2c5f2dff
+   }
+  table tbody tr:nth-child(even)
+  {
+  background-color:#2c5f2dff;
+  color:#ffd662ff;
+  font-size:16px;
+  font-weight:800px;
+ 
+  }
+   table tbody tr:nth-child(odd)
+  {
+  
+  color:#2c5f2dff;;
+  font-size:16px;
+  font-weight:500px;
+  }
+  .table tbody tr:nth-child(even):hover {
+     background-color:#2c5f2dff;
+  }
+  
